@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Create Redux Boilerplate...",
+        "id": "redux_create_boilerplate",
+        "command": "redux_create_boilerplate",
+        "args": {
+            "paths": []
+        }
+    }
+]
