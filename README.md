@@ -8,7 +8,7 @@ Plugin for Sublime Text 3 that creates basic Redux boilerplate files:
 
 ## Install
 
-For now this package is not available trough Package Control 😔
+For now this package is not available through Package Control 😔
 
 To use this pakage you need to clone this repo and copy [`ReduxCreateBoilerPlate.py`](./ReduxCreateBoilerplate.py) and [`Side Bar.sublime-menu`](./Side%20Bar.sublime-menu) into your User Sublime Packages folder.
 

@@ -11,10 +11,10 @@ export const initialState = fromJS({
 
 
 export default function reducer(state = initialState, action) {
-    switch(action.type) {
-        default:
-            return state
-    }
+  switch(action.type) {
+    default:
+      return state
+  }
 }
 """
 
